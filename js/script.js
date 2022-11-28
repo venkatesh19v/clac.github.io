@@ -1,8 +1,3 @@
-html {    
-    background: url('https://c4.wallpaperflare.com/wallpaper/763/961/160/vaporwave-aesthetic-wallpaper-preview.jpg') 
-    no-repeat center fixed; 
-    background-size: cover;
-}
 function clearScreen() {
 document.getElementById("result").value = "";
 }
